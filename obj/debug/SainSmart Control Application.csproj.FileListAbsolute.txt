@@ -1,0 +1,24 @@
+C:\Users\tommy\Desktop\C++\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\bin\Debug\SainSmart Control Application.exe.config
+C:\Users\tommy\Desktop\C++\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\SainSmart Control Application.csprojResolveAssemblyReference.cache
+C:\Users\tommy\Desktop\C++\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\SainSmart_Control_Application.Form1.resources
+C:\Users\tommy\Desktop\C++\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\SainSmart_Control_Application.Properties.Resources.resources
+C:\Users\tommy\Desktop\C++\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\SainSmart Control Application.csproj.GenerateResource.Cache
+C:\Users\tommy\Desktop\C++\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\bin\Debug\SainSmart Control Application.exe
+C:\Users\tommy\Desktop\C++\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\bin\Debug\SainSmart Control Application.pdb
+C:\Users\tommy\Desktop\C++\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\SainSmart Control Application.exe
+C:\Users\tommy\Desktop\C++\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\SainSmart Control Application.pdb
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\SainSmart Control Application.csprojResolveAssemblyReference.cache
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\SainSmart_Control_Application.Form1.resources
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\SainSmart_Control_Application.Properties.Resources.resources
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\SainSmart Control Application.csproj.GenerateResource.Cache
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\SainSmart_Control_Application.AboutBox1.resources
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\bin\Debug\BlueCore-Tech_Servo_Control_Arduino.exe.config
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\bin\Debug\BlueCore-Tech_Servo_Control_Arduino.exe
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\bin\Debug\BlueCore-Tech_Servo_Control_Arduino.pdb
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\BlueCore-Tech_Servo_Control_Arduino.exe
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\BlueCore-Tech_Servo_Control_Arduino.pdb
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\bin\Debug\BlueCore-Tech_Servo_Control_Arduino.exe.manifest
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\bin\Debug\BlueCore-Tech_Servo_Control_Arduino.application
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\BlueCore-Tech_Servo_Control_Arduino.TrustInfo.xml
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\BlueCore-Tech_Servo_Control_Arduino.exe.manifest
+D:\C# Source codes\Arduino servo control SainSmart\SainSmart Control Application\SainSmart Control Application\SainSmart Control Application\obj\Debug\BlueCore-Tech_Servo_Control_Arduino.application
